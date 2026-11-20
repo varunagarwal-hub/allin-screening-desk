@@ -43,3 +43,6 @@ next-env.d.ts
 
 # case PDFs (course material, keep out of public repo)
 data/seed/*.pdf
+
+.vercel
+.env*

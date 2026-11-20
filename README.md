@@ -61,6 +61,10 @@ CLI equivalents:
 5. Run `npm run google:token`, open the printed URL as the sender account, and approve. Copy the printed `GOOGLE_REFRESH_TOKEN` into `.env.local`.
 6. Create a second calendar (e.g. "Aditya (demo)") and put its ID in `ADITYA_CALENDAR_ID`.
 
+## Access
+
+The deployed app is behind HTTP Basic Auth (`APP_USER` / `APP_PASSWORD`), because it can send email from the fund account and spend API quotas. The Vercel Cron route is excluded and uses `CRON_SECRET`. Leave `APP_PASSWORD` empty locally to turn auth off.
+
 ## Architecture
 
 - Next.js 16 (App Router, `cacheComponents`), TypeScript, Tailwind 4.
