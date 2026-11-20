@@ -69,7 +69,7 @@ Not given (find publicly or mark missing): the fund's thesis, criteria + definit
 - [~] Phase 8 — Outreach, Loop 2, email + calendar agent: built; email intent 15/15; double-booking sim passes; demo invites sent 2026-11-20 for GrainKind + Pumpwise ([demo] accepts) to DEMO_FOUNDER_EMAIL; live acceptance waits on the user's founder replies
 - [~] Phase 9 — Evals and trust report: thresholds locked before any run; cold backtest 10/12 (warm 11/12); claims 100%; fabricated 0/9; stability max spread 1 (CAPilot call flipped once); email 15/15; double bookings 0; manual spot check pending (user). Report: docs/trust-report.md
 - Test data in DB: StockSathi "[acceptance test]" override (remove: `npx tsx scripts/loop1-acceptance.ts reset`); backtest decisions "[backtest]"; GrainKind/Pumpwise "[demo]" accepts.
-- [ ] Phase 10 — Polish and ship: README done; GitHub push + Vercel deploy need user go-ahead (repo visibility: course PDFs gitignored, memos.json contains memo text)
+- [x] Phase 10 — Polish and ship: public GitHub repo varunagarwal-hub/allin-screening-desk; Vercel production https://allin-screening-desk.vercel.app behind Basic Auth (APP_USER/APP_PASSWORD; cron route excluded, uses CRON_SECRET); env vars set; production smoke test passed 2026-11-20
 
 ## Phase 9 pre-registered thresholds (do not change)
 - decision agreement ≥ 9/12 (hold = not take_call)
