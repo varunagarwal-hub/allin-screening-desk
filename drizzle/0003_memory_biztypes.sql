@@ -1,0 +1,1 @@
+ALTER TABLE "decision_memory" ADD COLUMN "biz_types" jsonb DEFAULT '[]'::jsonb NOT NULL;

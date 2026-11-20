@@ -1,0 +1,510 @@
+{
+  "generated": "2026-11-20",
+  "fund": {
+    "name": "All In Capital",
+    "city": "Mumbai",
+    "partners": [
+      "Kushal Bhagia",
+      "Aditya Singh"
+    ],
+    "site": "https://www.allincapital.vc"
+  },
+  "written_thesis": {
+    "summary": "Pre-seed and seed fund backing Indian founders. Fund II (2025) names four focus areas: consumer tech, deeptech, fintech and consumer brands, while calling itself sector-agnostic. Typical first cheque USD 250-500K (Fund II: INR 2-5 Cr). Leads or co-leads rounds under USD 1M. Selects on founder-market fit.",
+    "sectors": {
+      "value": [
+        "fintech",
+        "deeptech",
+        "consumer_tech",
+        "consumer_brand"
+      ],
+      "note": "Fund II says 'sector agnostic with a special focus on' these four. Fund I (2022) was sector-agnostic, and its live portfolio is heavily B2B SaaS / marketplaces. 2025-26 programmes add AI / vertical SaaS (Golden Ticket) and supply chain / logistics (TorQLabs).",
+      "sources": [
+        {
+          "url": "https://inc42.com/buzz/all-in-capital-launches-inr-200-cr-fund-ii",
+          "date": "2025-03-20",
+          "excerpt": "sector agnostic ... special focus on consumer tech, deeptech, fintech, and consumer brands",
+          "verified": "found by research agent 2026-11-20 (page summary); spot-check before quoting"
+        },
+        {
+          "url": "https://indianstartupnews.com/funding/all-in-capital-launches-rs-200-crore-second-fund-secures-rs-85-crore-in-first-close-8872954",
+          "date": "2025-03-20",
+          "excerpt": "consumer tech, deeptech, fintech, and consumer brands",
+          "verified": "found by research agent 2026-11-20 (page summary); spot-check before quoting"
+        },
+        {
+          "url": "https://inc42.com/buzz/all-in-capital-sets-up-10-mn-fund-to-back-homegrown-early-stage-startups",
+          "date": "2022-06-09",
+          "excerpt": "The sector-agnostic fund will invest between $100K to $500K in pre-seed and seed funding rounds",
+          "verified": "found by research agent 2026-11-20 (page summary); spot-check before quoting"
+        }
+      ]
+    },
+    "adjacent_programmes": [
+      {
+        "name": "Golden Ticket",
+        "claim": "Up to USD 300K pre-seed for AI-led and vertical SaaS startups with a technical co-founder.",
+        "url": "https://india.entrepreneur.com/news-and-trends/all-in-capital-launches-golden-ticket-program-for/502479",
+        "date": "2026-02-05",
+        "verified": "found by research agent 2026-11-20 (page summary); spot-check before quoting"
+      },
+      {
+        "name": "TorQLabs",
+        "claim": "Pre-seed platform for supply chain, logistics, mobility and smart-warehousing startups.",
+        "url": "https://entrackr.com/snippets/all-in-capital-launches-torqlabs-for-supply-chain-and-logistics-startups-9651748",
+        "date": "2025-08-12",
+        "verified": "found by research agent 2026-11-20 (page summary); spot-check before quoting"
+      }
+    ],
+    "stage": {
+      "value": [
+        "pre-seed",
+        "seed"
+      ],
+      "note": "Ready at paper-plan, MVP or early-revenue stage. The fund avoids revenue-stage rounds because its cheques are small.",
+      "sources": [
+        {
+          "url": "https://www.allincapital.vc/apply_now",
+          "date": "undated",
+          "excerpt": "We are a pre-seed and seed stage fund that backs the best founders from India!",
+          "verified": "fetched by us via Jina Reader 2026-11-20"
+        },
+        {
+          "url": "https://inc42.com/features/kushal-baghia-all-in-capital-founder-market-fit-framework-pre-seed-investing",
+          "date": "2023-03-09",
+          "excerpt": "All In Capital invests at the pre-seed stage",
+          "verified": "found by research agent 2026-11-20 (page summary); spot-check before quoting"
+        }
+      ]
+    },
+    "cheque": {
+      "value": {
+        "usd_min": 250000,
+        "usd_max": 500000,
+        "inr_cr_min": 2,
+        "inr_cr_max": 5
+      },
+      "note": "The FAQ says USD 250-500K in the first round. Fund II press says INR 2-5 Cr. Older figures: USD 100-500K (2022), average USD 150K (2023).",
+      "sources": [
+        {
+          "url": "https://www.allincapital.vc/apply_now",
+          "date": "undated",
+          "excerpt": "We typically invest $250 to $500K in your first round.",
+          "verified": "fetched by us via Jina Reader 2026-11-20"
+        },
+        {
+          "url": "https://indianstartupnews.com/funding/all-in-capital-launches-rs-200-crore-second-fund-secures-rs-85-crore-in-first-close-8872954",
+          "date": "2025-03-20",
+          "excerpt": "Rs 2 crore to Rs 5 crore",
+          "verified": "found by research agent 2026-11-20 (page summary); spot-check before quoting"
+        }
+      ]
+    },
+    "round_behaviour": {
+      "value": "Leads or co-leads rounds under USD 1M. Above USD 1M, commits first and helps find a lead.",
+      "sources": [
+        {
+          "url": "https://www.allincapital.vc/apply_now",
+          "date": "undated",
+          "excerpt": "If you are raising under $1M we can lead or co-lead your round",
+          "verified": "fetched by us via Jina Reader 2026-11-20"
+        }
+      ]
+    },
+    "fund_size": {
+      "value": "Fund I USD 10M (2022), about USD 11M deployed across 51 startups. Fund II target INR 200 Cr plus INR 100 Cr greenshoe, INR 85 Cr first close (2025).",
+      "sources": [
+        {
+          "url": "https://inc42.com/buzz/all-in-capital-sets-up-10-mn-fund-to-back-homegrown-early-stage-startups",
+          "date": "2022-06-09",
+          "excerpt": "The fund will be investing in 75-100 startups in the next three years",
+          "verified": "found by research agent 2026-11-20 (page summary); spot-check before quoting"
+        },
+        {
+          "url": "https://inc42.com/buzz/all-in-capital-launches-inr-200-cr-fund-ii",
+          "date": "2025-03-20",
+          "excerpt": "up to INR 5 Cr each",
+          "verified": "found by research agent 2026-11-20 (page summary); spot-check before quoting"
+        }
+      ]
+    },
+    "founder_criteria": {
+      "value": [
+        "Founder-market fit: what the founders know and can or cannot do, the key risk, and their 'earned secrets'.",
+        "First-time founders need proven ability to build; long shared work history is favoured.",
+        "Contrarian bets and high selectivity (300-500 deals a month, two or three picked).",
+        "'All in' founders: the fund is ready the day the founder commits full-time."
+      ],
+      "sources": [
+        {
+          "url": "https://inc42.com/features/kushal-baghia-all-in-capital-founder-market-fit-framework-pre-seed-investing",
+          "date": "2023-03-09",
+          "excerpt": "It's about what the founders know and what they can do or can't do.",
+          "verified": "found by research agent 2026-11-20 (page summary); spot-check before quoting"
+        },
+        {
+          "url": "https://inc42.com/features/kushal-baghia-all-in-capital-founder-market-fit-framework-pre-seed-investing",
+          "date": "2023-03-09",
+          "excerpt": "What is the key risk and what are their earned secrets?",
+          "verified": "found by research agent 2026-11-20 (page summary); spot-check before quoting"
+        },
+        {
+          "url": "https://www.allincapital.vc/apply_now",
+          "date": "undated",
+          "excerpt": "the day you decide to go All In on your startup - we are ready",
+          "verified": "fetched by us via Jina Reader 2026-11-20"
+        }
+      ]
+    },
+    "geography": {
+      "value": "India-founded startups building for India and the world.",
+      "sources": [
+        {
+          "url": "https://inc42.com/buzz/all-in-capital-sets-up-10-mn-fund-to-back-homegrown-early-stage-startups",
+          "date": "2022-06-09",
+          "excerpt": "homegrown startups that are building products and services for India as well as the world",
+          "verified": "found by research agent 2026-11-20 (page summary); spot-check before quoting"
+        }
+      ]
+    },
+    "ownership_target": {
+      "value": "not_public",
+      "note": "No public ownership target was found. The FAQ says the fund usually invests on a convertible note."
+    }
+  },
+  "anti_thesis": {
+    "value": "not_public",
+    "searched": [
+      "allincapital.vc homepage, /portfolio, /apply_now",
+      "Inc42 2022 and 2023 articles",
+      "Fund II press (Inc42, Entrackr, Indian Startup News, Outlook Business)",
+      "Golden Ticket and TorQLabs coverage",
+      "web searches for exclusions and crypto"
+    ],
+    "what_absence_costs": "With no published exclusion list, any 'outside thesis' flag rests on (a) the four named focus sectors and (b) the memos' revealed behaviour (Coinlane, a crypto exchange, was declined as 'outside the areas we back'). Note that the public portfolio includes QuestBook (a Web3 learning platform), so 'crypto is excluded' is NOT a public rule. The system therefore treats exclusions as revealed-thesis inference, flags them with medium rather than critical severity, and always sends them to Kushal. It can never auto-decline.",
+    "revealed_exclusions": [
+      {
+        "pattern": "Businesses whose existence depends on favourable regulatory change (e.g. retail crypto trading)",
+        "memo": "Memo 10: Coinlane"
+      },
+      {
+        "pattern": "Models needing density/capex capital far beyond a pre-seed cheque (structure pass)",
+        "memo": "Memo 4: HopBox"
+      }
+    ]
+  },
+  "revealed_thesis": [
+    {
+      "id": "R1",
+      "pattern": "Founder behaviour outweighs the sector label. When a deal sits at the edge of the written sectors, the fund decides on whether the founders own the risk and did the groundwork.",
+      "evidence": [
+        {
+          "memo": "Memo 11: Jai Kisan",
+          "note": "Partner asked whether the thesis stretched to rural credit; group agreed founder behaviour mattered more than the sector label."
+        },
+        {
+          "memo": "Partner Meeting 2",
+          "note": "Kushal: label matters less than whether the founders own the risk."
+        }
+      ]
+    },
+    {
+      "id": "R2",
+      "pattern": "Lending businesses are backed only when the founders treat credit/default risk as theirs. Pushing risk onto the NBFC partner is disqualifying.",
+      "evidence": [
+        {
+          "memo": "Memo 6: CampusCredit",
+          "note": "Founder called default rates 'something the NBFC partner handles'; that answer decided the pass."
+        },
+        {
+          "memo": "Memo 11: Jai Kisan",
+          "note": "Deciding question was whether founders treated risk as theirs; they did."
+        },
+        {
+          "memo": "Partner Meeting 2",
+          "note": "Same sector, opposite answer, because of risk ownership."
+        }
+      ]
+    },
+    {
+      "id": "R3",
+      "pattern": "Consumer brands are gated on cohort repeat behaviour and gross margin fluency. If repeat is not tracked, the fund is 'guessing'.",
+      "evidence": [
+        {
+          "memo": "Memo 2: Petalry",
+          "note": "Passed: repeat rate not tracked, founder answered with channel averages, not cohorts."
+        },
+        {
+          "memo": "Memo 7: Giva",
+          "note": "Invested: founder knew CAC by channel, return rate, repeat revenue share without notes."
+        },
+        {
+          "memo": "Partner Meeting 1",
+          "note": "Aditya: repeat is 'the whole question for a consumer brand'."
+        }
+      ]
+    },
+    {
+      "id": "R4",
+      "pattern": "Growth bought through paid channels or referral campaigns is discounted versus growth earned through retention and word of mouth.",
+      "evidence": [
+        {
+          "memo": "Memo 2: Petalry",
+          "note": "~2/3 of orders from paid social, CAC rising; 'growth being bought rather than earned'."
+        },
+        {
+          "memo": "Memo 10: Coinlane",
+          "note": "User growth from referral campaigns (not decisive; category decided it)."
+        }
+      ]
+    },
+    {
+      "id": "R5",
+      "pattern": "Field groundwork before scaling is rewarded: founders who sat with customers, stores or farmers first and built distribution by hand.",
+      "evidence": [
+        {
+          "memo": "Memo 9: SuperK",
+          "note": "Spent months in small-town stores; could say what owners wanted."
+        },
+        {
+          "memo": "Memo 5: Wint Wealth",
+          "note": "Talked to users directly, arranged transactions by hand."
+        },
+        {
+          "memo": "Memo 11: Jai Kisan",
+          "note": "Registered and assessed thousands of farmers before scaling lending."
+        }
+      ]
+    },
+    {
+      "id": "R6",
+      "pattern": "Deeptech with a long regulatory path is backed only when founders show a concrete milestone sequence through the regulator and a view on the paying customer and liability. 'Solved once the tech works' is a pass.",
+      "evidence": [
+        {
+          "memo": "Memo 1: ePlane",
+          "note": "Long certification path accepted; founders answered with a specific technical milestone; cheque sized for slow path."
+        },
+        {
+          "memo": "Memo 8: AeroDrop",
+          "note": "No customer, no regulator path, no liability answer; founder treated all three as secondary."
+        },
+        {
+          "memo": "Partner Meeting 3",
+          "note": "Aditya compared AeroDrop to ePlane: milestone sequence was the difference."
+        }
+      ]
+    },
+    {
+      "id": "R7",
+      "pattern": "Deeptech with a nearer path to revenue, live customer sites and founders who describe pilot failures unprompted is preferred.",
+      "evidence": [
+        {
+          "memo": "Memo 3: Unbox Robotics",
+          "note": "Product in live sites; founders described failures before being asked."
+        }
+      ]
+    },
+    {
+      "id": "R8",
+      "pattern": "Pass on structure, not people, when the model needs far more capital than a pre-seed cheque (density games, heavy capex) and the fund would be the small cheque that gets squeezed.",
+      "evidence": [
+        {
+          "memo": "Memo 4: HopBox",
+          "note": "Strong operators; model only works with far more capital; pass on structure."
+        },
+        {
+          "memo": "Partner Meeting 1",
+          "note": "Kushal: pass on structure, not people; send a kind note saying what would change our view."
+        }
+      ]
+    },
+    {
+      "id": "R9",
+      "pattern": "Categories whose existence depends on favourable regulatory change (e.g. crypto) are declined quickly regardless of founder quality.",
+      "evidence": [
+        {
+          "memo": "Memo 10: Coinlane",
+          "note": "Outside the areas we back; no founder quality could change that; declined quickly."
+        }
+      ]
+    },
+    {
+      "id": "R10",
+      "pattern": "Defensiveness on weak spots (retention, defensibility) and founder-dependent products that do not travel beyond one person are negative signals.",
+      "evidence": [
+        {
+          "memo": "Memo 12: Prepnest",
+          "note": "No 30/90-day retention; bristled at the copycat question; 'the product is the teacher'."
+        },
+        {
+          "memo": "Partner Meeting 1",
+          "note": "Kushal: defensiveness when pushed is information; write it down."
+        }
+      ]
+    },
+    {
+      "id": "R11",
+      "pattern": "Thesis drift: recent yeses skew to commerce infrastructure and consumer plays with real repeat, and fewer pure technology bets, than the public wording suggests. Partners disagree on whether this is drift or pipeline mix.",
+      "evidence": [
+        {
+          "memo": "Partner Meeting 5",
+          "note": "Riya: SuperK-style retail and a founder-led fixed-income platform would score lower against the public wording than several passes."
+        },
+        {
+          "memo": "Memo 9: SuperK",
+          "note": "Small-town retail network backed on founder behaviour."
+        },
+        {
+          "memo": "Memo 5: Wint Wealth",
+          "note": "Founder-led fixed-income platform backed on founder-market fit."
+        }
+      ]
+    },
+    {
+      "id": "R12",
+      "pattern": "A missing key number drags the score down; it is never skipped. Credentials are not evidence.",
+      "evidence": [
+        {
+          "memo": "Partner Meeting 1",
+          "note": "Petalry 6.5 was too high given missing repeat data."
+        },
+        {
+          "memo": "Partner Meeting 3",
+          "note": "AeroDrop 7.5 inflated by credentials; 'score the evidence, not the pedigree'."
+        }
+      ]
+    },
+    {
+      "id": "R13",
+      "pattern": "Portfolio conflicts default to no (hold until the portfolio founder is told). Every application is checked against the full portfolio.",
+      "evidence": [
+        {
+          "memo": "Partner Meeting 4",
+          "note": "Meeting-notes startup overlapped MeetRecord; decision: hold."
+        }
+      ]
+    },
+    {
+      "id": "R14",
+      "pattern": "Observation (weak, do not over-weight): all six invested memos are labelled 'Early round'; five of six passes are 'Pre-seed'. Of four public-form applicants, only Giva was backed; warm intros dominate the yeses. Likely reflects stage-at-memo and network quality, not a rule.",
+      "evidence": [
+        {
+          "memo": "Memos 1-12 headers",
+          "note": "Stage and Source fields."
+        }
+      ]
+    }
+  ],
+  "drift_note": "Written vs revealed already differ. Public wording names four sectors, but the live portfolio is heavily B2B SaaS / marketplaces, and the memo yeses include small-town retail (SuperK) and rural credit (Jai Kisan), which sit at the edge of the labels. Partners disagree on whether this is drift or a pipeline change (Partner Meeting 5). Every score therefore states whether the written or the revealed thesis drove it.",
+  "criteria": [
+    {
+      "key": "thesis_fit",
+      "name": "Thesis fit",
+      "definition": "How well the company sits inside the fund's areas. Scored against BOTH the written public thesis (sectors, stage focus) and the revealed thesis (patterns R1-R14). The score states which one drove it.",
+      "anchors": {
+        "1": "Outside the fund's areas or a regulatory-bet category (e.g. crypto). Decline quickly.",
+        "2": "Edge of the written sectors and no revealed-thesis pattern that pulls it in.",
+        "3": "Inside a written sector label but the business type does not resemble what the fund has backed, or fits revealed thesis but not written.",
+        "4": "Inside a written sector and resembles revealed-thesis yeses on at least one pattern.",
+        "5": "Squarely inside written sectors and strongly matches revealed patterns (e.g. founder-owned risk lending, repeat-led consumer, deeptech with milestone plan)."
+      }
+    },
+    {
+      "key": "stage_cheque_fit",
+      "name": "Stage and cheque fit",
+      "definition": "Does the round size, valuation and stage fit a pre-seed cheque, and can the business reach its next milestone on pre-seed capital (structure test, R8)?",
+      "anchors": {
+        "1": "Series A or later, or a raise/valuation far beyond pre-seed; or model needs density/capex capital the fund cannot provide.",
+        "2": "Late seed / bridge size; fund would be a small follower cheque at risk of being squeezed.",
+        "3": "Pre-seed/seed label but raise or valuation stretched, or capital plan unclear.",
+        "4": "Pre-seed raise and valuation in range; milestone plan mostly fundable.",
+        "5": "Pre-seed raise in range with a clear, fundable 12-18 month milestone plan."
+      }
+    },
+    {
+      "key": "founder_quality",
+      "name": "Founder quality",
+      "definition": "Evidence of the rewarded founder signals (owns risk, cohort/margin thinking, field groundwork, candid about failures, milestone sequences, founder-market fit) and absence of penalised ones. Scored on evidence, not pedigree. Separate from path to market.",
+      "anchors": {
+        "1": "Penalised signals present (pushes risk onto partners, betting on regulation, defensive) with no offsetting evidence.",
+        "2": "Mostly credentials; little behavioural evidence; key gaps (e.g. no one owns risk or operations).",
+        "3": "Some rewarded signals evidenced in deck/form, several unknown (call-only).",
+        "4": "Multiple rewarded signals evidenced with specifics; strong founder-market fit.",
+        "5": "Rewarded signals evidenced across the file, failures named candidly, clear founder-market fit; no penalised signals."
+      }
+    },
+    {
+      "key": "path_to_market",
+      "name": "Path to market",
+      "definition": "Is there a concrete, evidenced route to paying customers: who pays, how they are reached, sales cycle, regulatory path where relevant. Separate from founder quality.",
+      "anchors": {
+        "1": "No identified paying customer or route; regulatory path unaddressed where it is the gating item.",
+        "2": "Paying customer named but route is hypothetical; heavy dependence on a partner or future regulation.",
+        "3": "Early route working in one place (pilot, one town) with open questions on repeatability.",
+        "4": "Repeatable channel evidenced with numbers; regulatory path mapped where needed.",
+        "5": "Multiple working channels with unit economics, or signed customers plus a milestone path through regulation."
+      }
+    },
+    {
+      "key": "traction_quality",
+      "name": "Traction quality",
+      "definition": "Quality, not just size: earned vs bought growth, repeat/retention/cohorts, unit economics, consistency between form and deck. Missing key numbers lower the score (R12).",
+      "anchors": {
+        "1": "No traction or key numbers missing (e.g. no repeat for a brand, no defaults for lending, no MRR/churn for SaaS).",
+        "2": "Vanity metrics (downloads, followers, GMV only) or growth mainly bought; key numbers partly missing.",
+        "3": "Some real usage with partial repeat/retention data; small sample.",
+        "4": "Repeat/retention evidenced with cohorts or rates; unit economics positive on some basis.",
+        "5": "Strong earned growth with cohort data, positive contribution margin and consistent numbers across sources."
+      }
+    },
+    {
+      "key": "market_competition",
+      "name": "Market and competition",
+      "definition": "Is the market real and is the founder honest about competition? Tests deck claims (e.g. 'no competitors') against research. Penalises aspirational top-down sizing and ignored incumbents.",
+      "anchors": {
+        "1": "Claims contradicted by research (e.g. 'no competitors' while funded competitors exist) and no differentiation.",
+        "2": "Crowded with well-funded incumbents; weak or generic differentiation.",
+        "3": "Real market; competitors acknowledged; differentiation plausible but unproven.",
+        "4": "Bottom-up sizing; competitors named accurately; a clear wedge.",
+        "5": "Underserved segment evidenced by research; honest competitive map; defensible wedge."
+      }
+    },
+    {
+      "key": "risk_ownership",
+      "name": "Risk ownership",
+      "definition": "Do the founders own the main risks of their model (credit/default, regulatory, liability, supply) rather than pushing them to partners or future regulation? Includes a plan B for regulatory risk.",
+      "anchors": {
+        "1": "Main risk explicitly pushed onto a partner or a hoped-for regulatory change; no plan B.",
+        "2": "Main risk not addressed; dependency on a single partner unexamined.",
+        "3": "Risk acknowledged but ownership or mitigation unclear (e.g. first-loss stated but no data).",
+        "4": "Founders own the risk with some evidence (first-loss, collections process, regulatory roadmap).",
+        "5": "Clear ownership with data (defaults, cohorts, compliance steps) and a plan B."
+      }
+    }
+  ],
+  "rules_config": {
+    "preseed_raise_ok_inr_cr": 8.5,
+    "preseed_raise_stretch_inr_cr": 20,
+    "fund_cheque_inr_cr": [
+      2,
+      5
+    ],
+    "stage_ok": [
+      "pre-seed",
+      "preseed",
+      "seed",
+      "angel",
+      "idea",
+      "pre seed"
+    ],
+    "stage_mismatch": [
+      "series a",
+      "series b",
+      "series c",
+      "growth",
+      "pre-series a",
+      "bridge"
+    ],
+    "note": "USD 1M is about INR 8.5 Cr, the fund's lead/co-lead ceiling. Raises up to INR 20 Cr are flagged as a stretch. Above that, or a Series A label, is a mismatch."
+  }
+}

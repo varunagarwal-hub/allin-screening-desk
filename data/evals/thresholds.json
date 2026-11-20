@@ -1,0 +1,13 @@
+{
+  "registered_at": "2026-11-20T10:30:00+05:30",
+  "registered_by": "screening desk build (Phase 9), before any eval run",
+  "statement": "These thresholds are fixed before the first eval run and must never be changed after. The app records a hash of this file on the first run and refuses to report results against a different file.",
+  "thresholds": [
+    { "key": "decision_agreement", "label": "Decision agreement with the fund's 12 memos", "rule": ">= 9 of 12 (hold counts as 'not take_call')", "min": 9, "of": 12 },
+    { "key": "claims_sourced", "label": "Claims sourced or marked not_found", "rule": "100% of claims", "min_pct": 100 },
+    { "key": "fabricated_sources", "label": "Fabricated sources", "rule": "0 cited URLs not retrieved in that run (automated) + manual spot check of 10 with 0 failures", "max": 0, "spot_check_n": 10 },
+    { "key": "score_stability", "label": "Score stability", "rule": "max spread <= 1 point per criterion across 3 runs", "max_spread": 1, "runs": 3 },
+    { "key": "email_intent", "label": "Email intent accuracy", "rule": ">= 13 of 15 sample replies", "min": 13, "of": 15 },
+    { "key": "double_bookings", "label": "Double bookings", "rule": "0", "max": 0 }
+  ]
+}
